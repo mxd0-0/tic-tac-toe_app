@@ -1,4 +1,6 @@
 # Tic Tac Toe App
+![image](https://github.com/user-attachments/assets/f3bde0cf-01c3-4e03-b540-a52417adcce2)
+
 
 ## Description
 A simple Tic Tac Toe game implemented using Jetpack Compose in Kotlin. The game allows a single player to play against an AI.
