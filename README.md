@@ -14,7 +14,7 @@ A simple Tic Tac Toe game implemented using Jetpack Compose in Kotlin. The game 
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/tic-tac-toe-app.git
+    git clone https://github.com/mxd0-0/tic-tac-toe_app.git
     ```
 2. Open the project in Android Studio.
 3. Build the project to download all dependencies.
